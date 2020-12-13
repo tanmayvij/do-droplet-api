@@ -1,0 +1,1 @@
+# REST API Boilerplate created using [rest-boilerplate-cli](https://npmjs.com/package/rest-boilerplate-cli)

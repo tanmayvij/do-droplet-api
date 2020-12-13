@@ -1,1 +1,2 @@
-# REST API Boilerplate created using [rest-boilerplate-cli](https://npmjs.com/package/rest-boilerplate-cli)
+# DigitalOcean Droplet API app
+Simple app to delete a DigitalOcean droplet using DigitalOcean APIs.
